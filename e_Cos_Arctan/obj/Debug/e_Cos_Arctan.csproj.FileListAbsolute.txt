@@ -1,0 +1,9 @@
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.Form1.resources
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.Properties.Resources.resources
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.csproj.GenerateResource.Cache
+C:\Programming\C#\Windows\e_Cos_Arctan\bin\Debug\e_Cos_Arctan.exe.config
+C:\Programming\C#\Windows\e_Cos_Arctan\bin\Debug\e_Cos_Arctan.exe
+C:\Programming\C#\Windows\e_Cos_Arctan\bin\Debug\e_Cos_Arctan.pdb
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.exe
+C:\Programming\C#\Windows\e_Cos_Arctan\obj\Debug\e_Cos_Arctan.pdb
